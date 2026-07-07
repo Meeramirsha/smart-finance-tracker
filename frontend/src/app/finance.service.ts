@@ -9,7 +9,7 @@ export class FinanceService {
   private http = inject(HttpClient);
   private apiUrl = window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1'
     ? 'http://localhost:8080/api'
-    : 'https://smart-finance-backend.onrender.com/api'; // Replace this with your backend URL once you host it (e.g. on Render)
+    : 'https://smart-finance-tracker-cq0m.onrender.com'; // Replace this with your backend URL once you host it (e.g. on Render)
 
   private userSubject = new BehaviorSubject<any>(null);
   public user$ = this.userSubject.asObservable();
