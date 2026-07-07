@@ -1,0 +1,9 @@
+# IDE and Tooling
+.vscode/
+.idea/
+*.swp
+*.log
+
+# Windows / OS X system files
+.DS_Store
+Thumbs.db
