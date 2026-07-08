@@ -8,7 +8,6 @@ An advanced full-stack financial management platform designed to track income, e
 
 *   **Live Application URL:** [https://meeramirsha.github.io/smart-finance-tracker/](https://meeramirsha.github.io/smart-finance-tracker/)
 *   **Live Backend Base API:** `https://smart-finance-tracker-cq0m.onrender.com/api`
-*   **Live Video Walkthrough / Demo:** [Click here to watch the Video Walkthrough](https://youtu.be/your-video-link-here) *(Placeholder - please replace with your actual YouTube or Loom demo video link!)*
 
 ---
 
